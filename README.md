@@ -5,5 +5,6 @@ Couchbase_Investigation
  	+ Please prepare dependencies before runscript using commands:
  	
  	   grape install com.couchbase.client couchbase-client 1.4.1
+
      grape install org.fusesource.jansi jansi 1.4
 
